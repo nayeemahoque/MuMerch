@@ -1,0 +1,84 @@
+D:\Codes\MuMerch\MuMerch\BLL\bin\Debug\BLL.dll
+D:\Codes\MuMerch\MuMerch\BLL\bin\Debug\BLL.pdb
+D:\Codes\MuMerch\MuMerch\BLL\bin\Debug\AutoMapper.dll
+D:\Codes\MuMerch\MuMerch\BLL\bin\Debug\DAL.dll
+D:\Codes\MuMerch\MuMerch\BLL\bin\Debug\EntityFramework.dll
+D:\Codes\MuMerch\MuMerch\BLL\bin\Debug\DAL.pdb
+D:\Codes\MuMerch\MuMerch\BLL\bin\Debug\DAL.dll.config
+D:\Codes\MuMerch\MuMerch\BLL\bin\Debug\AutoMapper.xml
+D:\Codes\MuMerch\MuMerch\BLL\bin\Debug\EntityFramework.xml
+D:\Codes\MuMerch\MuMerch\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Codes\MuMerch\MuMerch\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Codes\MuMerch\MuMerch\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Codes\MuMerch\MuMerch\BLL\obj\Debug\BLL.dll
+D:\Codes\MuMerch\MuMerch\BLL\obj\Debug\BLL.pdb
+D:\GitHub\MuMerch\MuMerch\BLL\bin\Debug\BLL.dll
+D:\GitHub\MuMerch\MuMerch\BLL\bin\Debug\BLL.pdb
+D:\GitHub\MuMerch\MuMerch\BLL\bin\Debug\AutoMapper.dll
+D:\GitHub\MuMerch\MuMerch\BLL\bin\Debug\DAL.dll
+D:\GitHub\MuMerch\MuMerch\BLL\bin\Debug\EntityFramework.dll
+D:\GitHub\MuMerch\MuMerch\BLL\bin\Debug\DAL.pdb
+D:\GitHub\MuMerch\MuMerch\BLL\bin\Debug\DAL.dll.config
+D:\GitHub\MuMerch\MuMerch\BLL\bin\Debug\AutoMapper.xml
+D:\GitHub\MuMerch\MuMerch\BLL\bin\Debug\EntityFramework.xml
+D:\GitHub\MuMerch\MuMerch\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\GitHub\MuMerch\MuMerch\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\GitHub\MuMerch\MuMerch\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\GitHub\MuMerch\MuMerch\BLL\obj\Debug\BLL.dll
+D:\GitHub\MuMerch\MuMerch\BLL\obj\Debug\BLL.pdb
+D:\Codes\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\BLL.dll
+D:\Codes\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\BLL.pdb
+D:\Codes\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\AutoMapper.dll
+D:\Codes\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\DAL.dll
+D:\Codes\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\EntityFramework.dll
+D:\Codes\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\DAL.pdb
+D:\Codes\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\DAL.dll.config
+D:\Codes\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\AutoMapper.xml
+D:\Codes\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\EntityFramework.xml
+D:\Codes\ASP.NET_Final_Project\MuMerch\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Codes\ASP.NET_Final_Project\MuMerch\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Codes\ASP.NET_Final_Project\MuMerch\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Codes\ASP.NET_Final_Project\MuMerch\BLL\obj\Debug\BLL.dll
+D:\Codes\ASP.NET_Final_Project\MuMerch\BLL\obj\Debug\BLL.pdb
+D:\github\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\BLL.dll
+D:\github\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\BLL.pdb
+D:\github\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\AutoMapper.dll
+D:\github\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\DAL.dll
+D:\github\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\EntityFramework.dll
+D:\github\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\DAL.pdb
+D:\github\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\DAL.dll.config
+D:\github\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\AutoMapper.xml
+D:\github\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\EntityFramework.xml
+D:\github\ASP.NET_Final_Project\MuMerch\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\github\ASP.NET_Final_Project\MuMerch\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\github\ASP.NET_Final_Project\MuMerch\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\github\ASP.NET_Final_Project\MuMerch\BLL\obj\Debug\BLL.dll
+D:\github\ASP.NET_Final_Project\MuMerch\BLL\obj\Debug\BLL.pdb
+F:\.net\Project\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\BLL.dll
+F:\.net\Project\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\BLL.pdb
+F:\.net\Project\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\AutoMapper.dll
+F:\.net\Project\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\DAL.dll
+F:\.net\Project\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\EntityFramework.dll
+F:\.net\Project\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\DAL.pdb
+F:\.net\Project\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\DAL.dll.config
+F:\.net\Project\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\AutoMapper.xml
+F:\.net\Project\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\EntityFramework.xml
+F:\.net\Project\ASP.NET_Final_Project\MuMerch\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\.net\Project\ASP.NET_Final_Project\MuMerch\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\.net\Project\ASP.NET_Final_Project\MuMerch\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\.net\Project\ASP.NET_Final_Project\MuMerch\BLL\obj\Debug\BLL.dll
+F:\.net\Project\ASP.NET_Final_Project\MuMerch\BLL\obj\Debug\BLL.pdb
+D:\Codes\New MuMerch\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\BLL.dll
+D:\Codes\New MuMerch\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\BLL.pdb
+D:\Codes\New MuMerch\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\AutoMapper.dll
+D:\Codes\New MuMerch\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\DAL.dll
+D:\Codes\New MuMerch\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\EntityFramework.dll
+D:\Codes\New MuMerch\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\DAL.pdb
+D:\Codes\New MuMerch\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\DAL.dll.config
+D:\Codes\New MuMerch\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\AutoMapper.xml
+D:\Codes\New MuMerch\ASP.NET_Final_Project\MuMerch\BLL\bin\Debug\EntityFramework.xml
+D:\Codes\New MuMerch\ASP.NET_Final_Project\MuMerch\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Codes\New MuMerch\ASP.NET_Final_Project\MuMerch\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Codes\New MuMerch\ASP.NET_Final_Project\MuMerch\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Codes\New MuMerch\ASP.NET_Final_Project\MuMerch\BLL\obj\Debug\BLL.dll
+D:\Codes\New MuMerch\ASP.NET_Final_Project\MuMerch\BLL\obj\Debug\BLL.pdb
